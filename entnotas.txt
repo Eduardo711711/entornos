@@ -1,1 +1,3 @@
 Primer cambio
+
+Cambio para entnotas.txt
